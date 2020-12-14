@@ -1,7 +1,7 @@
 ### Good $($PartOfDay) 👋
 I'm Tony, nice to meet you. 
 
-- 👥 I’m looking to collaborate on PowerShell projects involving configurations, software deployment, 
+- 👥 I’m looking to collaborate on PowerShell projects involving configurations, software deployment, or anything really.
 - 🤔 I’m looking for help on how to break into DevOps. 
 - 🔭 I’m currently working on my [resume](https://github.com/tonypags/resume/).
 - 📫 How to reach me: tony@pagliaro.co
