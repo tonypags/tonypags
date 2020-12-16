@@ -8,6 +8,10 @@ I'm Tony, nice to meet you.
 <!--
 - 🌱 I’m currently learning PowerShell DSC on a very small lab environment.
 - 💬 Ask me about 
+- 📢 PSA: 
 -->
-
 - ⚡ Fun fact: My favorite search engine is [Duck Duck Go](https://duckduckgo.com).
+
+---
+
+<img align="left" alt="Tony's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=tonypags&show_icons=true&count_private=true" />
