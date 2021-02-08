@@ -10,7 +10,7 @@ I'm Tony, nice to meet you.
 - 💬 Ask me about 
 - 📢 PSA: 
 -->
-- ⚡ Fun fact: My favorite search engine is [Duck Duck Go](https://duckduckgo.com).
+- ⚡ Fun fact: My favorite search engine is [Yippy](https://yippy.com).
 
 ---
 
