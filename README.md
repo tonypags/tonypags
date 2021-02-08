@@ -1,9 +1,9 @@
 ### Good $($PartOfDay) 👋
 I'm Tony, nice to meet you. 
 
+- 🔭 I’m currently broadcasting my [resume](https://github.com/tonypags/resume/), please check this out! 👀
 - 👥 I’m looking to collaborate on PowerShell projects involving configurations, software deployment, or anything really.
 - 🤔 I’m looking for help on how to break into DevOps. 
-- 🔭 I’m currently working on my [resume](https://github.com/tonypags/resume/) 👀
 - 📫 How to reach me: tony@pagliaro.co
 <!--
 - 🌱 I’m currently learning PowerShell DSC on a very small lab environment.
