@@ -5,7 +5,7 @@ I'm Tony, nice to meet you.
 - 📫 How you can reach me: [tony@pagliaro.co](mailto:tony@pagliaro.co)
 - 🛠 I’m currently working on a long overdue homelab [project](https://github.com/tonypags/resume/blob/master/Personal-Projects.md#roadmap).
 - 🔭 I’m considering a step into [YouTube-dom](https://www.youtube.com/channel/UCk6sSugylilH0HmzWxrpn5A), stay tuned! 👀
-- ⚡ Fun fact: My favorite search engine is [Yippy](https://yippy.com).
+- ⚡ Fun fact: My favorite search engine--[Yippy](https://yippy.com)--shut down and made me sad.
 
 
 ## Code Samples
