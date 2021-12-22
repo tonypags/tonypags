@@ -1,7 +1,7 @@
 ### Good $($PartOfDay) 👋
 I'm Tony, nice to meet you. 
 
-- 👥 I’m looking to collaborate on PowerShell projects involving configurations, software deployment, or anything really. 
+- 👥 I’m looking to collaborate on PowerShell projects involving builds, configurations, auditing, or anything really. 
 - 📫 How you can reach me: [tony@pagliaro.co](mailto:tony@pagliaro.co)
 - 🛠 I’m currently working on a long overdue homelab [project](https://github.com/tonypags/resume/blob/master/Personal-Projects.md#roadmap).
 - 🔭 I’m considering a step into [YouTube-dom](https://www.youtube.com/channel/UCk6sSugylilH0HmzWxrpn5A), stay tuned! 👀
@@ -11,6 +11,8 @@ I'm Tony, nice to meet you.
 ## Code Samples
 - My date tools module [PsDateTools](https://github.com/tonypags/PsDateTools/)
 - My GUI tools module [PsGuiTools](https://github.com/tonypags/PsGuiTools)
+- My Dev Tools [PsDevTools](https://github.com/tonypags/PsDevTools)
+- My Module Scaffolder [PsModuleTemplate](https://github.com/tonypags/PsModuleTemplate)
 - My misc functions [PsWinAdmin](https://github.com/tonypags/PsWinAdmin)
 <!--
 - 💬 Ask me about 
