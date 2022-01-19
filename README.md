@@ -22,4 +22,6 @@ I'm Tony, nice to meet you.
 
 ---
 
-<img align="left" alt="Tony's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=tonypags&show_icons=true&count_private=true" />
+<img align="left" width="50%" alt="Tony's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=tonypags&show_icons=true&count_private=true" />
+
+<img align="center" width="50%" alt="Visitor Counter for tonypags" src="https://pimp-my-readme.webapp.io/pimp-my-readme/visitor-counter?page=tonypags" /> as of Jan 19, 2022
