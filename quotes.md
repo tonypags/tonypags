@@ -50,7 +50,7 @@ These are the thoughts that kept me out of the really good schools.
 <hr>
 
 Nobody goes there anymore. 
-It's too crowded.  
+It's too crowded. 
 </br>- Yogi Berra
 
 <hr>
@@ -106,7 +106,7 @@ Everybody seeks happiness!
 Not me, though! 
 That's the difference between me and the rest of the world. 
 Happiness isn't good enough for me! 
-I demand euphoria!  
+I demand euphoria! 
 </br>- Calvin  
 
 <hr>
@@ -125,7 +125,7 @@ But if you judge a fish by its ability to climb a tree, it will live its whole l
 <hr>
 
 Some people study artificial intelligence. 
-I study actual stupidity.  
+I study actual stupidity. 
 </br>- Carl Icahn
 
 <hr>
@@ -148,7 +148,7 @@ Never trust a DJ who doesn't dance.
 
 Knowing others is intelligence; knowing yourself is true wisdom. 
 Mastering others is strength; mastering yourself is true power. 
-If you realize that you have enough, you are truly rich.  
+If you realize that you have enough, you are truly rich. 
 </br>- Tao Te Ching 
 
 <hr>
