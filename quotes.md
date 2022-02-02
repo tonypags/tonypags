@@ -21,7 +21,7 @@ As soon as you realize you're not going to die, it's the most fun you've ever ha
 <hr>
 
 The thing that men and women need to do is stick together. 
-Progressions can't be made if we're separate forever.
+Progressions can't be made if we're separate forever. 
 </br>- Phife Dawg
 
 <hr>
@@ -39,7 +39,7 @@ When it all comes around, look for me; I'll still be around.
 
 <hr>
 
-Science is not only compatible with spirituality; it is a profound source of spirituality.
+Science is not only compatible with spirituality; it is a profound source of spirituality. 
 </br>- Carl Sagan
 
 <hr>
@@ -56,37 +56,37 @@ It's too crowded.
 <hr>
 
 Life moves pretty fast. 
-If you don't stop and look around once in a while, you could miss it.  
+If you don't stop and look around once in a while, you could miss it. 
 </br>- Ferris Bueller
 
 <hr>
 
-When I write, I feel like an armless, legless man with a crayon in his mouth.  
+When I write, I feel like an armless, legless man with a crayon in his mouth. 
 </br>- Kurt Vonnegut 
 
 <hr>
 
-Everyone you will ever meet knows something you don't.  
+Everyone you will ever meet knows something you don't. 
 </br>- Bill Nye 
 
 <hr>
 
-You can tell how smart people are by what they laugh at.  
+You can tell how smart people are by what they laugh at. 
 </br>- Tina Fey 
 
 <hr>
 
-Love.  That's what it's got to do with it.  
+Love.  That's what it's got to do with it. 
 </br>- Bob Saget 
 
 <hr>
 
-In every work of genius we recognize our own rejected thoughts; they come back to us with a certain alienated majesty.  
+In every work of genius we recognize our own rejected thoughts; they come back to us with a certain alienated majesty. 
 </br>- Ralph Waldo Emerson 
 
 <hr>
 
-Give the ones you love wings to fly, roots to come back, and reasons to stay.  
+Give the ones you love wings to fly, roots to come back, and reasons to stay. 
 </br>- Tenzin Gyatso (14th Dali Lama)
 
 <hr>
@@ -135,13 +135,13 @@ The good thing about science is that it's true whether or not you believe in it.
 
 <hr>
 
-I wish I could say it gets better.  
-It doesn't get better, you get better.  
+I wish I could say it gets better. 
+It doesn't get better, you get better. 
 </br>- Joan Rivers
 
 <hr>
 
-Never trust a DJ who doesn't dance.  
+Never trust a DJ who doesn't dance. 
 </br>- DJ Rekha
 
 <hr>
@@ -163,17 +163,17 @@ True friends stab you in the front.
 
 <hr>
 
-Be civil to all, sociable to many, familiar with few, friend to one, enemy to none.  
+Be civil to all, sociable to many, familiar with few, friend to one, enemy to none.
 </br>- Benjamin Franklin
 
 <hr>
 
-Don't tell people how to do things, tell them what to do and let them surprise you with their results.  
+Don't tell people how to do things, tell them what to do and let them surprise you with their results.
 </br>- Gen. George S. Patton
 
 <hr>
 
-Women who seek to be equal with men lack ambition. 
+Women who seek to be equal with men lack ambition.
 </br>- Timothy Leary
 
 <hr>
