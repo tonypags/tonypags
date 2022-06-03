@@ -28,8 +28,6 @@ I'm Tony, nice to meet you.
 
 <img align="center" width="50%" alt="Visitor Counter for tonypags" src="https://pimp-my-readme.webapp.io/pimp-my-readme/visitor-counter?page=tonypags" href="https://github.com/tonypags/tonypags/" /> as of Jan 19, 2022
 
-[Pimp My README](https://pimp-my-readme.webapp.io)
-
 # Bio
 I learned IT early in life, and despite my younger aversions I made a career out of it. The one skill I honed early that took me far was figuring out How Computers WANTED to be Used. I started with a few small jobs that allowed me to tinker and learn, and cut my teeth in the field at a couple different MSPs in Manhattan. And I read a metric fcukton of tech blogs, but only the good ones ;) 
 
@@ -38,3 +36,6 @@ After many years, I grew tired of that and moved to the NOC streamlining workflo
 I started acquiring ownership over a bunch of platforms at work and worked my magic on those as well. Pretty soon I grew tired of the endless stream of emergencies that MSP life consists of and moved into a NOC at an enterprise. They're pretty far behind when it comes to Automation, and even my slow speed seems to be too fast for them. 
 
 I'm using the extra time for my family and trips to the beach! I love watching explainer vidoes, into topics like Physics, Philosophy, and anything in between (which is a lot!). If you made it this far, drop me a line: tony@pagliaro.co 
+
+# Bibliography
+[Pimp My README](https://pimp-my-readme.webapp.io)
