@@ -7,7 +7,7 @@ I'm Tony, nice to meet you.
 - 📫 How you can reach me: [tony@pagliaro.co](mailto:tony@pagliaro.co)
 - 🛠 I’m continually working on my homelab. [FInd out more](https://github.com/tonypags/resume/blob/master/Personal-Projects.md#roadmap).
 - 🔭 I’m considering a step into [YouTube-dom](https://www.youtube.com/channel/UCk6sSugylilH0HmzWxrpn5A), just playlists for now! 👀
-- ⚡ Fun fact: My favorite search engine--[Yippy](https://yippy.com)--shut down and made me sad. DDG is surprisingly anti-privacy. Now using Brave.
+- ⚡ Fun fact: My current default search engine is [Startpage](https://www.startpage.com/). If you value privacy, don't be fooled by DuckDuckGo, or Brave, or You... like I was. 
 
 
 ## Code Samples
