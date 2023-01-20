@@ -37,5 +37,8 @@ I started acquiring ownership over a bunch of platforms at work and worked my ma
 
 I'm using the extra time for my family and trips to the beach! I love watching explainer vidoes, into topics like Physics, Philosophy, and anything in between (which is a lot!). If you made it this far, drop me a line: tony@pagliaro.co 
 
+# Quotes
+- "A good programmer is someone who always looks both ways before crossing a one-way street." -Doug Linder
+
 # Bibliography
 [Pimp My README](https://pimp-my-readme.webapp.io)
