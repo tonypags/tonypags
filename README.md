@@ -5,9 +5,9 @@ I'm Tony, nice to meet you.
 
 - 👥 I’m looking to collaborate on PowerShell projects involving builds, configurations, auditing, or anything really. 
 - 📫 How you can reach me: [tony@pagliaro.co](mailto:tony@pagliaro.co)
-- 🛠 I’m continually working on my homelab. [FInd out more](https://github.com/tonypags/resume/blob/master/Personal-Projects.md#roadmap).
-- 🔭 I’m considering a step into [YouTube-dom](https://www.youtube.com/channel/UCk6sSugylilH0HmzWxrpn5A), just playlists for now! 👀
-- ⚡ Fun fact: My current default search engine is [Startpage](https://www.startpage.com/). If you value privacy, don't be fooled by DuckDuckGo, or Brave, or You... like I was. 
+- 🛠 I’m continually working on my homelab. [Find out more](https://github.com/tonypags/resume/blob/master/Personal-Projects.md#roadmap).
+- 🔭 My [YouTube](https://www.youtube.com/channel/UCk6sSugylilH0HmzWxrpn5A) playlists related to my coding journey. 👀
+- ⚡ Fun fact: My current default search engine is [Startpage](https://www.startpage.com/). If you value privacy, don't be fooled by DuckDuckGo, or Brave, or You... like I was.
 
 
 ## Code Samples
@@ -25,13 +25,13 @@ I'm Tony, nice to meet you.
 ---
 
 # Bio
-I learned IT early in life, and despite my younger aversions I made a career out of it. The one skill I honed early that took me far was figuring out <b>How Computers WANTED to be Used</b>. I started with a few small jobs that allowed me to tinker and learn, and cut my teeth in the field at a couple different MSPs in Manhattan. And I read a metric fcukton of tech blogs, but only the good ones ;) 
+I learned IT early in life, and despite my younger aversions I made a career out of it. The one skill I honed early that took me far was figuring out <b>How Computers WANTED to be Used</b>. I started with a few small jobs that allowed me to tinker and learn, and cut my teeth in the field at a couple different MSPs in Manhattan. And I read tech blogs, but only the good ones ;) 
 
 After many years, I grew tired of the field and moved to the NOC streamlining workflows: I had a knack for it. That's when I re-discovered <b>PowerShell</b> and fell in love. 
 
-I started acquiring ownership over a bunch of platforms at work and worked my magic on those as well. Pretty soon I grew tired of the endless stream of emergencies that MSP life consists of and moved into a NOC at an enterprise. They're pretty far behind when it comes to Automation, and even my slow speed seems to be too fast for them. 
+I started acquiring ownership over a bunch of platforms at work and worked my magic on those as well. Pretty soon I grew tired of the endless stream of emergencies that MSP life consists of and moved into a NOC at an enterprise. I advanced their existing automated solutions and revamped their environment adding web pages and dashboard for a unified front-end experience.
 
-I'm using the extra time for my family and trips to the beach! I love watching explainer videos, into topics like Physics, Philosophy, and anything in between (which is a lot!). If you made it this far, drop me a line: tony@pagliaro.co 
+I use my free time for my family and for rounds of disc golf. I love watching explainer videos, into topics like Physics, Philosophy, and anything in between (which is a lot!). If you made it this far, drop me a line: tony@pagliaro.co 
 
 # Quotes
 - "A good programmer is someone who always looks both ways before crossing a one-way street." -Doug Linder
