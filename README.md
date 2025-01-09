@@ -6,7 +6,7 @@ I'm Tony, nice to meet you.
 - 👥 I’m looking to collaborate on PowerShell projects involving builds, configurations, auditing, or anything really. 
 - 📫 How you can reach me: [tony@pagliaro.co](mailto:tony@pagliaro.co)
 - 🛠 I’m continually working on my homelab. [Find out more](https://github.com/tonypags/resume/blob/master/Personal-Projects.md#roadmap).
-- 🔭 My [YouTube](https://www.youtube.com/channel/UCk6sSugylilH0HmzWxrpn5A) playlists related to my coding journey. 👀
+- 🔭 My [YouTube](https://www.youtube.com/@tonypags/playlists) playlists related to my coding journey. 👀
 - ⚡ Fun fact: My current default search engine is [Startpage](https://www.startpage.com/). If you value privacy, don't be fooled by DuckDuckGo, or Brave, or You... like I was.
 
 
