@@ -1,35 +1,33 @@
-### Good $($PartOfDay) 👋
-I'm Tony, nice to meet you. 
+### Good $($PartOfDay) 😃
+I'm Tony, nice of you to stop by. 
 
-<!-- <img align="right" width="35%" alt="TonyPags, Toolmaker, ITOps Automation" src="https://pimp-my-readme.webapp.io/pimp-my-readme/wavy-banner?subtitle=Toolmaker%2C%20ITOps%20Automation&title=TonyPags" href="https://github.com/tonypags/tonypags/" /> -->
-
-- 👥 I’m looking to collaborate on PowerShell projects involving builds, configurations, auditing, or anything really. 
+- 🕘 Check out my [resume](https://github.com/tonypags/resume) page!
+- 🗨️ I’m looking to collaborate on projects involving app builds, configurations, auditing, or anything really. 
 - 📫 How you can reach me: [tony@pagliaro.co](mailto:tony@pagliaro.co)
 - 🛠 I’m continually working on my homelab. [Find out more](https://github.com/tonypags/resume/blob/master/Personal-Projects.md#roadmap).
-- 🔭 My [YouTube](https://www.youtube.com/@tonypags/playlists) playlists related to my coding journey. 👀
+- 📺 My [YouTube](https://www.youtube.com/@tonypags/playlists) playlists related to my coding journey. 👀
 - ⚡ Fun fact: My current default search engine is [Startpage](https://www.startpage.com/). If you value privacy, don't be fooled by DuckDuckGo, or Brave, or You... like I was.
 
 
 ## Code Samples
 - My date tools module [PsDateTools](https://github.com/tonypags/PsDateTools/)
 - My GUI tools module [PsGuiTools](https://github.com/tonypags/PsGuiTools)
-- My Dev Tools [PsDevTools](https://github.com/tonypags/PsDevTools)
 - My Module Scaffolder [PsModuleTemplate](https://github.com/tonypags/PsModuleTemplate)
+- My Dev Tools [PsDevTools](https://github.com/tonypags/PsDevTools)
 - My misc functions [PsWinAdmin](https://github.com/tonypags/PsWinAdmin)
 <!--
 - 💬 Ask me about 
 - 📢 PSA: 
-- 🌱 I’m currently taking courses for Microsoft [Azure certifications](https://docs.microsoft.com/en-us/users/tony-3972/).
 -->
 
 ---
 
 # Bio
-I learned IT early in life, and despite my younger aversions I made a career out of it. The one skill I honed early that took me far was figuring out <b>How Computers WANTED to be Used</b>. I started with a few small jobs that allowed me to tinker and learn, and cut my teeth in the field at a couple different MSPs in Manhattan. And I read tech blogs, but only the good ones ;) 
+I learned IT early in life, and after getting a BS in engineering, I made a career out of it. The one skill I honed early that took me far was figuring out <b>How Computers WANTED to be Used</b>. I started with a few small jobs that allowed me to tinker and learn, and cut my teeth in the field at a couple different MSPs in Manhattan. And I read tech blogs, but only the good ones ;) 
 
-After many years, I grew tired of the field and moved to the NOC streamlining workflows: I had a knack for it. That's when I re-discovered <b>PowerShell</b> and fell in love. 
+After many years, I grew tired of the field and moved to the NOC streamlining workflows: I had a knack for it. That's when I re-discovered <b>PowerShell</b> and caught the automation bug. 
 
-I started acquiring ownership over a bunch of platforms at work and worked my magic on those as well. Pretty soon I grew tired of the endless stream of emergencies that MSP life consists of and moved into a NOC at an enterprise. I advanced their existing automated solutions and revamped their environment adding web pages and dashboard for a unified front-end experience.
+I started acquiring ownership over a bunch of platforms at work and worked my magic on those as well. Then I moved into a NOC at an enterprise. I advanced their existing automated solutions and revamped their environment adding web pages and dashboards for a unified front-end experience.
 
 I use my free time for my family and for rounds of disc golf. I love watching explainer videos, into topics like Physics, Philosophy, and anything in between (which is a lot!). If you made it this far, drop me a line: tony@pagliaro.co 
 
